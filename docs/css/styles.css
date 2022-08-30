@@ -1,0 +1,23 @@
+
+#navbarSupportedContent a{
+    text-align: center;
+}
+#navbarSupportedContent ul{
+    background-color: aquamarine;
+    width: 100%;
+}
+html, body{
+    height: 100%;
+
+}
+.chicken{
+    height: 1000px;
+    width:100%;
+    border: solid black 1px;
+    background-color: azure;
+}
+
+.main{
+    background-color: aqua;
+}
+
